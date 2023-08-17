@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @htmalien, which is really a street name I adopted as a youth. My name is Naquan.
+- 👋 Hi, I’m @htmalien, mainly known as Noble, which is really a street name I adopted as a youth. My name is Naquan.
 - 👀 I’m interested in becoming a front end web developer, with a specific interest in web3.
 - 🌱 I’m currently learning the basics. I just started learning html 4/1/23, and I've been hard at it.
 - 💞️ I’m looking to collaborate on any project that is interested in helping develop newcomers in the world of coding. I'm looking to learn more of the basics.
